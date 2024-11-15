@@ -1,0 +1,18 @@
+* {
+  background-color: burlywood;
+}
+
+img {
+  background-color: white;
+  height: auto;
+  width: 600px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  font-size: 18px;
+}
